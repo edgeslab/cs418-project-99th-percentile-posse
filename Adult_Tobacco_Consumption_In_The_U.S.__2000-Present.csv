@@ -1,0 +1,236 @@
+﻿Year,LocationAbbrev,LocationDesc,Population,Topic,Measure,Submeasure,Data Value Unit,Domestic,Imports,Total,Domestic Per Capita,Imports Per Capita,Total Per Capita
+2000,US,National,"209,786,736",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"437,154,499,804","13,570,647,662","450,725,147,466","2,084",65,"2,148"
+2001,US,National,"212,345,162",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"424,447,310,483","16,245,487,123","440,692,797,606","1,999",77,"2,075"
+2002,US,National,"214,754,648",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"408,303,465,673","22,459,975,923","430,763,441,596","1,901",105,"2,006"
+2003,US,National,"217,068,101",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"391,196,952,717","24,733,051,892","415,930,004,609","1,802",114,"1,916"
+2004,US,National,"219,552,929",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"390,166,439,041","24,254,733,538","414,421,172,579","1,777",110,"1,888"
+2005,US,National,"222,003,984",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"380,712,422,031","20,474,781,600","401,187,203,631","1,715",92,"1,807"
+2006,US,National,"224,583,123",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"382,748,665,603","18,493,161,400","401,241,827,003","1,704",82,"1,787"
+2007,US,National,"227,239,768",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"367,880,476,823","16,206,169,554","384,086,646,377","1,619",71,"1,690"
+2008,US,National,"229,945,137",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"357,080,696,204","14,183,410,908","371,264,347,112","1,553",62,"1,615"
+2009,US,National,"232,458,335",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"329,491,123,539","12,632,961,400","342,124,084,939","1,417",54,"1,472"
+2010,US,National,"235,153,929",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"317,475,052,695","11,764,157,615","329,239,210,311","1,350",50,"1,400"
+2011,US,National,"237,657,645",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"315,683,514,293","10,893,776,123","326,577,290,416","1,328",46,"1,374"
+2012,US,National,"240,185,952",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"310,009,439,421","12,386,990,662","322,396,430,083","1,291",52,"1,342"
+2013,US,National,"242,542,967",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"295,476,582,903","14,164,450,662","309,641,033,564","1,218",58,"1,277"
+2014,US,National,"245,273,438",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"282,020,020,624","16,175,868,538","298,195,889,163","1,150",66,"1,216"
+2015,US,National,"247,773,709",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"285,537,129,046","17,214,155,385","302,751,284,431","1,152",69,"1,222"
+2000,US,National,"209,786,736",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"423,250,355,675","12,319,663,000","435,570,018,675","2,018",59,"2,076"
+2001,US,National,"212,345,162",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"412,031,245,791","14,688,910,000","426,720,155,791","1,940",69,"2,010"
+2002,US,National,"214,754,648",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"394,871,830,876","20,851,781,000","415,723,611,876","1,839",97,"1,936"
+2003,US,National,"217,068,101",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"377,241,580,953","23,085,086,000","400,326,666,953","1,738",106,"1,844"
+2004,US,National,"219,552,929",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"374,977,639,606","22,677,777,000","397,655,416,606","1,708",103,"1,811"
+2005,US,National,"222,003,984",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"362,963,574,561","18,134,795,000","381,098,369,561","1,635",82,"1,717"
+2006,US,National,"224,583,123",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"364,437,096,601","16,156,451,000","380,593,547,601","1,623",72,"1,695"
+2007,US,National,"227,239,768",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"348,317,484,882","13,272,402,000","361,589,886,882","1,533",58,"1,591"
+2008,US,National,"229,945,137",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"335,384,308,754","11,035,202,000","346,419,510,754","1,459",48,"1,507"
+2009,US,National,"232,458,335",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"308,387,865,658","9,348,209,000","317,736,074,658","1,327",40,"1,367"
+2010,US,National,"235,153,929",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"292,753,880,443","7,696,903,000","300,450,783,443","1,245",33,"1,278"
+2011,US,National,"237,657,645",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"286,352,524,912","6,416,560,000","292,769,084,912","1,205",27,"1,232"
+2012,US,National,"240,185,952",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"279,838,393,182","7,348,808,000","287,187,201,182","1,165",31,"1,196"
+2013,US,National,"242,542,967",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"266,088,075,153","7,697,423,000","273,785,498,153","1,097",32,"1,129"
+2014,US,National,"245,273,438",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"254,486,570,103","8,194,703,000","262,681,273,103","1,038",33,"1,071"
+2015,US,National,"247,773,709",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"259,720,555,991","8,540,221,000","268,260,776,991","1,048",34,"1,083"
+2000,US,National,"209,786,736",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"3,369,732,285","512,194,000","3,881,926,285",16,2,19
+2001,US,National,"212,345,162",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"3,563,717,412","540,798,000","4,104,515,412",17,3,19
+2002,US,National,"214,754,648",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"3,703,237,388","499,924,000","4,203,161,388",17,2,20
+2003,US,National,"217,068,101",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"4,018,523,214","514,566,000","4,533,089,214",19,2,21
+2004,US,National,"219,552,929",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"4,319,160,065","615,596,000","4,934,756,065",20,3,22
+2005,US,National,"222,003,984",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"4,431,800,085","651,732,000","5,083,532,085",20,3,23
+2006,US,National,"224,583,123",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"4,503,604,349","795,133,000","5,298,737,349",20,4,24
+2007,US,National,"227,239,768",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"4,658,667,130","889,004,000","5,547,671,130",21,4,24
+2008,US,National,"229,945,137",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"4,672,736,408","984,282,000","5,657,018,408",20,4,25
+2009,US,National,"232,458,335",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"7,981,903,518","1,802,149,000","9,784,052,518",34,8,42
+2010,US,National,"235,153,929",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"9,940,951,946","2,345,752,000","12,286,703,946",42,10,52
+2011,US,National,"237,657,645",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"9,997,562,563","2,931,540,000","12,929,102,563",42,12,54
+2012,US,National,"240,185,952",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"9,438,748,098","3,586,024,000","13,024,772,098",39,15,54
+2013,US,National,"242,542,967",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"7,783,004,119","4,716,423,000","12,499,427,119",32,19,52
+2014,US,National,"245,273,438",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"6,961,138,057","6,169,557,000","13,130,695,057",28,25,54
+2015,US,National,"247,773,709",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"5,757,429,535","6,481,846,000","12,239,275,535",23,26,49
+2000,US,National,"209,786,736",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"2,243,135,044","36,049,000","2,279,184,044",11,0,11
+2001,US,National,"212,345,162",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"2,171,391,711","67,979,000","2,239,370,711",10,0,11
+2002,US,National,"214,754,648",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"2,247,836,178","95,082,000","2,342,918,178",10,0,11
+2003,US,National,"217,068,101",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"2,301,972,488","172,369,000","2,474,341,488",11,1,11
+2004,US,National,"219,552,929",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"2,701,646,262","215,443,000","2,917,089,262",12,1,13
+2005,US,National,"222,003,984",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"3,772,041,108","196,453,000","3,968,494,108",17,1,18
+2006,US,National,"224,583,123",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"4,162,220,407","271,875,000","4,434,095,407",19,1,20
+2007,US,National,"227,239,768",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"4,849,626,473","311,199,000","5,160,825,473",21,1,23
+2008,US,National,"229,945,137",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"5,470,956,642","409,873,000","5,880,829,642",24,2,26
+2009,US,National,"232,458,335",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"2,150,667,840","191,877,000","2,342,544,840",9,1,10
+2010,US,National,"235,153,929",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"902,728,614","79,974,000","982,702,614",4,0,4
+2011,US,National,"237,657,645",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"753,869,895","44,308,000","798,177,895",3,0,3
+2012,US,National,"240,185,952",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"704,842,141","57,193,000","762,035,141",3,0,3
+2013,US,National,"242,542,967",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"610,589,169","48,855,000","659,444,169",3,0,3
+2014,US,National,"245,273,438",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"542,454,495","21,403,000","563,857,495",2,0,2
+2015,US,National,"247,773,709",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"530,680,751","23,505,000","554,185,751",2,0,2
+2000,US,National,"209,786,736",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"5,612,867,329","548,243,000","6,161,110,329",27,3,29
+2001,US,National,"212,345,162",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"5,735,109,123","608,777,000","6,343,886,123",27,3,30
+2002,US,National,"214,754,648",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"5,951,073,566","595,006,000","6,546,079,566",28,3,30
+2003,US,National,"217,068,101",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"6,320,495,702","686,935,000","7,007,430,702",29,3,32
+2004,US,National,"219,552,929",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"7,020,806,327","831,039,000","7,851,845,327",32,4,36
+2005,US,National,"222,003,984",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"8,203,841,193","848,185,000","9,052,026,193",37,4,41
+2006,US,National,"224,583,123",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"8,665,824,756","1,067,008,000","9,732,832,756",39,5,43
+2007,US,National,"227,239,768",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"9,508,293,603","1,200,203,000","10,708,496,603",42,5,47
+2008,US,National,"229,945,137",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"10,143,693,050","1,394,155,000","11,537,848,050",44,6,50
+2009,US,National,"232,458,335",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"10,132,571,358","1,994,026,000","12,126,597,358",44,9,52
+2010,US,National,"235,153,929",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"10,843,680,560","2,425,726,000","13,269,406,560",46,10,56
+2011,US,National,"237,657,645",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"10,751,432,458","2,975,848,000","13,727,280,458",45,13,58
+2012,US,National,"240,185,952",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"10,143,590,239","3,643,217,000","13,786,807,239",42,15,57
+2013,US,National,"242,542,967",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"8,393,593,288","4,765,278,000","13,158,871,288",35,20,54
+2014,US,National,"245,273,438",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"7,503,592,552","6,190,960,000","13,694,552,552",31,25,56
+2015,US,National,"247,773,709",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"6,288,110,286","6,505,351,000","12,793,461,286",25,26,52
+2000,US,National,"209,786,736",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"2,635,167,015","364,252,062","2,999,419,077",13,2,14
+2001,US,National,"212,345,162",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"2,421,344,492","493,322,338","2,914,666,831",11,2,14
+2002,US,National,"214,754,648",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"2,278,010,585","479,059,692","2,757,070,277",11,2,13
+2003,US,National,"217,068,101",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"2,045,639,385","343,673,108","2,389,312,492",9,2,11
+2004,US,National,"219,552,929",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"1,922,368,000","391,132,062","2,313,500,062",9,2,11
+2005,US,National,"222,003,984",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"1,915,462,400","507,187,692","2,422,650,092",9,2,11
+2006,US,National,"224,583,123",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"1,613,252,923","708,639,015","2,321,891,938",7,3,10
+2007,US,National,"227,239,768",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"1,545,756,554","916,830,523","2,462,587,077",7,4,11
+2008,US,National,"229,945,137",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"1,563,947,323","1,021,555,200","2,585,502,523",7,4,11
+2009,US,National,"232,458,335",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"5,279,921,723","975,782,400","6,255,704,123",23,4,27
+2010,US,National,"235,153,929",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"10,961,836,800","1,389,512,369","12,351,349,169",47,6,53
+2011,US,National,"237,657,645",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"16,167,488,985","1,291,845,908","17,459,334,892",68,5,73
+2012,US,National,"240,185,952",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"17,940,369,723","1,242,185,354","19,182,555,077",75,5,80
+2013,US,National,"242,542,967",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"19,208,684,308","1,590,358,154","20,799,042,462",79,7,86
+2014,US,National,"245,273,438",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"18,531,989,662","1,694,230,154","20,226,219,815",76,7,82
+2015,US,National,"247,773,709",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"17,817,856,985","2,050,709,169","19,868,566,154",72,8,80
+2000,US,National,"209,786,736",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"5,352,683","739,887","6,092,570",0,0,0
+2001,US,National,"212,345,162",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"4,918,356","1,002,061","5,920,417",0,0,0
+2002,US,National,"214,754,648",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"4,627,209","973,090","5,600,299",0,0,0
+2003,US,National,"217,068,101",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"4,155,205","698,086","4,853,291",0,0,0
+2004,US,National,"219,552,929",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"3,904,810","794,487","4,699,297",0,0,0
+2005,US,National,"222,003,984",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"3,890,783","1,030,225","4,921,008",0,0,0
+2006,US,National,"224,583,123",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"3,276,920","1,439,423","4,716,343",0,0,0
+2007,US,National,"227,239,768",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"3,139,818","1,862,312","5,002,130",0,0,0
+2008,US,National,"229,945,137",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"3,176,768","2,075,034","5,251,802",0,0,0
+2009,US,National,"232,458,335",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"10,724,841","1,982,058","12,706,899",0,0,0
+2010,US,National,"235,153,929",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"22,266,231","2,822,447","25,088,678",0,0,0
+2011,US,National,"237,657,645",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"32,840,212","2,624,062","35,464,274",0,0,0
+2012,US,National,"240,185,952",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"36,441,376","2,523,189","38,964,565",0,0,0
+2013,US,National,"242,542,967",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"39,017,640","3,230,415","42,248,055",0,0,0
+2014,US,National,"245,273,438",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"37,643,104","3,441,405","41,084,509",0,0,0
+2015,US,National,"247,773,709",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"36,192,522","4,165,503","40,358,025",0,0,0
+2000,US,National,"209,786,736",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"5,656,109,785","338,489,600","5,994,599,385",27,2,29
+2001,US,National,"212,345,162",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"4,259,611,077","454,477,785","4,714,088,862",20,2,22
+2002,US,National,"214,754,648",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"5,202,550,646","534,129,231","5,736,679,877",24,2,27
+2003,US,National,"217,068,101",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"5,589,236,677","617,357,785","6,206,594,462",26,3,29
+2004,US,National,"219,552,929",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"6,245,625,108","354,785,477","6,600,410,585",28,2,30
+2005,US,National,"222,003,984",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"7,629,543,877","984,613,908","8,614,157,785",34,4,39
+2006,US,National,"224,583,123",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"8,032,491,323","561,063,385","8,593,554,708",36,2,38
+2007,US,National,"227,239,768",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"8,508,941,785","816,734,031","9,325,675,815",37,4,41
+2008,US,National,"229,945,137",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"9,988,987,077","732,498,708","10,721,485,785",43,3,47
+2009,US,National,"232,458,335",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"5,690,764,800","314,944,000","6,005,708,800",24,1,26
+2010,US,National,"235,153,929",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"2,915,654,892","252,016,246","3,167,671,138",12,1,13
+2011,US,National,"237,657,645",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"2,412,067,938","209,522,215","2,621,590,154",10,1,11
+2012,US,National,"240,185,952",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"2,087,086,277","152,780,308","2,239,866,585",9,1,9
+2013,US,National,"242,542,967",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"1,786,230,154","111,391,508","1,897,621,662",7,0,8
+2014,US,National,"245,273,438",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"1,497,868,308","95,975,385","1,593,843,692",6,0,6
+2015,US,National,"247,773,709",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"1,710,605,785","117,874,215","1,828,480,000",7,0,7
+2000,US,National,"209,786,736",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"11,488,973","687,557","12,176,530",0,0,0
+2001,US,National,"212,345,162",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"8,652,335","923,158","9,575,493",0,0,0
+2002,US,National,"214,754,648",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"10,567,681","1,084,950","11,652,631",0,0,0
+2003,US,National,"217,068,101",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"11,353,137","1,254,008","12,607,145",0,0,0
+2004,US,National,"219,552,929",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"12,686,426","720,658","13,407,084",0,0,0
+2005,US,National,"222,003,984",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"15,497,511","1,999,997","17,497,508",0,0,0
+2006,US,National,"224,583,123",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"16,315,998","1,139,660","17,455,658",0,0,0
+2007,US,National,"227,239,768",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"17,283,788","1,658,991","18,942,779",0,0,0
+2008,US,National,"229,945,137",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"20,290,130","1,487,888","21,778,018",0,0,0
+2009,US,National,"232,458,335",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"11,559,366","639,730","12,199,096",0,0,0
+2010,US,National,"235,153,929",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"5,922,424","511,908","6,434,332",0,0,0
+2011,US,National,"237,657,645",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"4,899,513","425,592","5,325,105",0,0,0
+2012,US,National,"240,185,952",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"4,239,394","310,335","4,549,729",0,0,0
+2013,US,National,"242,542,967",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"3,628,280","226,264","3,854,544",0,0,0
+2014,US,National,"245,273,438",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"3,042,545","194,950","3,237,495",0,0,0
+2015,US,National,"247,773,709",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"3,474,668","239,432","3,714,100",0,0,0
+2000,US,National,"209,786,736",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"8,291,276,800","702,741,662","8,994,018,462",40,3,43
+2001,US,National,"212,345,162",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"6,680,955,569","947,800,123","7,628,755,692",31,4,36
+2002,US,National,"214,754,648",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"7,480,561,231","1,013,188,923","8,493,750,154",35,5,40
+2003,US,National,"217,068,101",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"7,634,876,062","961,030,892","8,595,906,954",35,4,40
+2004,US,National,"219,552,929",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"8,167,993,108","745,917,538","8,913,910,646",37,3,41
+2005,US,National,"222,003,984",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"9,545,006,277","1,491,801,600","11,036,807,877",43,7,50
+2006,US,National,"224,583,123",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"9,645,744,246","1,269,702,400","10,915,446,646",43,6,49
+2007,US,National,"227,239,768",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"10,054,698,338","1,733,564,554","11,788,262,892",44,8,52
+2008,US,National,"229,945,137",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"11,552,934,400","1,754,053,908","13,306,988,308",50,8,58
+2009,US,National,"232,458,335",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"10,970,686,523","1,290,726,400","12,261,412,923",47,6,53
+2010,US,National,"235,153,929",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"13,877,491,692","1,641,528,615","15,519,020,308",59,7,66
+2011,US,National,"237,657,645",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"18,579,556,923","1,501,368,123","20,080,925,046",78,6,84
+2012,US,National,"240,185,952",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"20,027,456,000","1,394,965,662","21,422,421,662",83,6,89
+2013,US,National,"242,542,967",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"20,994,914,462","1,701,749,662","22,696,664,123",87,7,94
+2014,US,National,"245,273,438",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"20,029,857,969","1,790,205,538","21,820,063,508",82,7,89
+2015,US,National,"247,773,709",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"19,528,462,769","2,168,583,385","21,697,046,154",79,9,88
+2000,US,National,"209,786,736",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"16,841,656","1,427,444","18,269,100",0,0,0
+2001,US,National,"212,345,162",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"13,570,691","1,925,219","15,495,910",0,0,0
+2002,US,National,"214,754,648",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"15,194,890","2,058,040","17,252,930",0,0,0
+2000,US,National,"209,786,736",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"66,134,630","17,729","66,152,359",0.315,0,0.315
+2003,US,National,"217,068,101",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"15,508,342","1,952,094","17,460,436",0,0,0
+2004,US,National,"219,552,929",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"16,591,236","1,515,145","18,106,381",0,0,0
+2005,US,National,"222,003,984",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"19,388,294","3,030,222","22,418,516",0,0,0
+2006,US,National,"224,583,123",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"19,592,918","2,579,083","22,172,001",0,0,0
+2007,US,National,"227,239,768",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"20,423,606","3,521,303","23,944,909",0,0,0
+2008,US,National,"229,945,137",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"23,466,898","3,562,922","27,029,820",0,0,0
+2009,US,National,"232,458,335",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"22,284,207","2,621,788","24,905,995",0,0,0
+2010,US,National,"235,153,929",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"28,188,655","3,334,355","31,523,010",0,0,0
+2011,US,National,"237,657,645",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"37,739,725","3,049,654","40,789,379",0,0,0
+2012,US,National,"240,185,952",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"40,680,770","2,833,524","43,514,294",0,0,0
+2013,US,National,"242,542,967",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"42,645,920","3,456,679","46,102,599",0,0,0
+2014,US,National,"245,273,438",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"40,685,649","3,636,355","44,322,004",0,0,0
+2015,US,National,"247,773,709",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"39,667,190","4,404,935","44,072,125",0,0,0
+2000,US,National,"209,786,736",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"45,502,156","91,965","45,594,121",0.217,0,0.217
+2001,US,National,"212,345,162",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"49,397,524","102,162","49,499,686",0.233,0,0.233
+2002,US,National,"214,754,648",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"47,095,214","215,769","47,310,983",0.219,0.001,0.22
+2003,US,National,"217,068,101",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"45,906,067","174,399","46,080,466",0.211,0.001,0.212
+2004,US,National,"219,552,929",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"42,940,196","208,894","43,149,090",0.196,0.001,0.197
+2005,US,National,"222,003,984",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"38,883,276","315,916","39,199,192",0.175,0.001,0.177
+2006,US,National,"224,583,123",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"38,862,076","235,747","39,097,823",0.173,0.001,0.174
+2007,US,National,"227,239,768",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"35,086,655","217,387","35,304,042",0.154,0.001,0.155
+2008,US,National,"229,945,137",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"33,123,840","322,100","33,445,940",0.144,0.001,0.145
+2009,US,National,"232,458,335",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"30,228,068","197,018","30,425,086",0.13,0.001,0.131
+2010,US,National,"235,153,929",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"27,422,318","192,666","27,614,984",0.117,0.001,0.117
+2011,US,National,"237,657,645",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"24,636,069","164,463","24,800,532",0.104,0.001,0.104
+2012,US,National,"240,185,952",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"23,800,851","345,143","24,145,994",0.099,0.001,0.101
+2013,US,National,"242,542,967",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"21,944,042","489,659","22,433,701",0.09,0.002,0.092
+2014,US,National,"245,273,438",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"21,335,199","630,212","21,965,411",0.087,0.003,0.09
+2015,US,National,"247,773,709",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"19,352,433","858,688","20,211,121",0.078,0.003,0.082
+2001,US,National,"212,345,162",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"69,804,806","11,675","69,816,481",0.329,0,0.329
+2002,US,National,"214,754,648",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"71,242,932","9,827","71,252,759",0.332,0,0.332
+2003,US,National,"217,068,101",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"74,700,715","8,369","74,709,084",0.344,0,0.344
+2004,US,National,"219,552,929",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"77,983,437","16,833","78,000,270",0.355,0,0.355
+2005,US,National,"222,003,984",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"80,241,576","11,018","80,252,594",0.361,0,0.361
+2006,US,National,"224,583,123",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"86,576,507","63,497","86,640,004",0.385,0,0.386
+2007,US,National,"227,239,768",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"88,266,593","101,194","88,367,787",0.388,0,0.389
+2008,US,National,"229,945,137",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"94,596,853","221,808","94,818,661",0.411,0.001,0.412
+2009,US,National,"232,458,335",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"94,762,149","291,606","95,053,755",0.408,0.001,0.409
+2010,US,National,"235,153,929",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"99,572,886","339,291","99,912,177",0.423,0.001,0.425
+2011,US,National,"237,657,645",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"103,097,456","464,519","103,561,975",0.434,0.002,0.436
+2012,US,National,"240,185,952",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"107,626,111","579,234","108,205,345",0.448,0.002,0.451
+2013,US,National,"242,542,967",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"112,352,476","654,149","113,006,625",0.463,0.003,0.466
+2014,US,National,"245,273,438",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"113,664,778","702,966","114,367,744",0.463,0.003,0.466
+2015,US,National,"247,773,709",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"116,987,888","583,932","117,571,820",0.472,0.002,0.475
+2016,US,National,"249,485,228",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"273,881,993,213","17,154,801,323","291,036,794,536","1,098",69,"1,167"
+2016,US,National,"249,485,228",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"249,824,734,796","7,629,000,000","257,453,734,796","1,001",31,"1,032"
+2016,US,National,"249,485,228",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"5,056,761,893","6,974,839,000","12,031,600,893",20,28,48
+2016,US,National,"249,485,228",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"475,333,201","21,351,000","496,684,201",2,0,2
+2016,US,National,"249,485,228",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"5,532,095,094","6,996,190,000","12,528,285,094",22,28,50
+2016,US,National,"249,485,228",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"17,078,577,231","2,412,131,938","19,490,709,169",68,10,78
+2016,US,National,"249,485,228",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"34,690,860","4,899,643","39,590,503",0,0,0
+2016,US,National,"249,485,228",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"1,446,586,092","117,479,385","1,564,065,477",6,0,6
+2016,US,National,"249,485,228",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"2,938,378","238,630","3,177,008",0,0,0
+2016,US,National,"249,485,228",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"18,525,163,323","2,529,611,323","21,054,774,646",74,10,84
+2016,US,National,"249,485,228",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"37,629,238","5,138,273","42,767,511",0,0,0
+2016,US,National,"249,485,228",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"18,913,518","1,092,411","20,005,929",0.076,0.004,0.08
+2016,US,National,"249,485,228",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"118,477,707","606,334","119,084,041",0.475,0.002,0.477
+2017,US,National,"252,063,800",Combustible Tobacco,Cigarettes,Cigarette Removals,Cigarettes,"239,296,509,804","7,866,487,000","247,162,966,804",949,31,981
+2017,US,National,"252,063,800",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Pounds,"2,462,689","202,108","2,664,797",0,0,0
+2017,US,National,"252,063,800",Combustible Tobacco,Loose Tobacco,Roll-Your-Own Tobacco,Cigarette Equivalents,"1,212,400,738","99,499,323","1,311,900,062",5,0,5
+2017,US,National,"252,063,800",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Pounds,"35,074,282","3,665,466","38,739,748",0,0,0
+2017,US,National,"252,063,800",Combustible Tobacco,Loose Tobacco,Pipe Tobacco,Cigarette Equivalents,"17,267,338,831","1,804,537,108","19,071,875,938",69,7,76
+2017,US,National,"252,063,800",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Pounds,"37,536,971","3,867,574","41,404,545",0,0,0
+2017,US,National,"252,063,800",Combustible Tobacco,Loose Tobacco,Total Loose Tobacco,Cigarette Equivalents,"18,479,739,569","1,904,036,431","20,383,776,000",73,8,81
+2017,US,National,"252,063,800",Noncombustible Tobacco,Smokeless Tobacco,Snuff,Pounds,"118,596,158","549,547","119,145,705",0.471,0.002,0.473
+2017,US,National,"252,063,800",Noncombustible Tobacco,Smokeless Tobacco,Chewing Tobacco,Pounds,"17,479,594","1,003,775","18,483,369",0.069,0.004,0.073
+2017,US,National,"252,063,800",Combustible Tobacco,Cigars ,Large Cigars,Cigars,"5,168,609,318","7,785,400,000","12,954,009,318",21,31,51
+2017,US,National,"252,063,800",Combustible Tobacco,Cigars ,Small Cigars,Cigars,"414,659,792","25,198,000","439,857,792",2,0,2
+2017,US,National,"252,063,800",Combustible Tobacco,Cigars ,Total Cigars,Cigars,"5,583,269,110","7,810,598,000","13,393,867,110",22,31,53
+2017,US,National,"252,063,800",Combustible Tobacco,All Combustibles,Total Combustible Tobacco,Cigarette Equivalents,"263,359,518,483","17,581,121,431","280,940,639,914","1,045",70,"1,115"
+,,,,,,,,,,,,,
