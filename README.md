@@ -2,10 +2,10 @@
 
 CS 418 Spring 2019
 
-Group: 99 Percentile Posse
+Group: 99th Percentile Posse
 Project: The Upset of the Cigarette
 
 Members: 
-Brennan Pohl, Jeet Raol, Viet Nguyen, Iqra Memon, Tommy Castino
+Jeet Raol, Viet Nguyen, Iqra Memon, Tommy Castino
 
 
