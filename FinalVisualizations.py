@@ -14,6 +14,7 @@ sp = sns.stripplot(x="YEAR", y="Data_Value", hue="TopicDesc", data=sp_df, jitter
 sp.set_title('Percentage of Young Adult Cigarette vs. E-Cigarette Users by the Year')
 sp.set_xlabel('Year')
 sp.set_ylabel('Percentage of Current Users')
+sp.legend(bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0.)
 
 pp = sns.pointplot(x="YEAR", y="Data_Value", hue="TopicDesc", data=sp_df)
 pp.set_title('Percentage of Young Adult Cigarette vs. E-Cigarette Users by the Year')
